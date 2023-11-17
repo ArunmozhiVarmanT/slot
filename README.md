@@ -120,7 +120,8 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Screenshot 2023-11-15 093813](https://github.com/ArunmozhiVarmanT/slot/assets/144870523/248bf4b1-8e52-49cc-85c4-d711547982ec)
+![Screenshot 2023-11-17 200727](https://github.com/ArunmozhiVarmanT/slot/assets/144870523/321b511a-3ffd-4666-bd8d-f6d86ba8bdb8)
+
 
 
 ## RESULT
